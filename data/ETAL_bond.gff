@@ -1,3 +1,4 @@
+98604_1443517_2358923_2446480-(circular)	mitfi	ncRNA_gene	16057	644	.	+	.	ID=gene_rrnS;gene_id=rrnS
 98604_1443517_2358923_2446480-(circular)	mitfi	exon	1	644	0.0	+	.	Parent=transcript_rrnS;Name=rrnS-b
 98604_1443517_2358923_2446480-(circular)	mitfi	ncRNA_gene	645	715	.	+	.	ID=gene_trnV;gene_id=trnV
 98604_1443517_2358923_2446480-(circular)	mitfi	tRNA	645	715	.	+	.	ID=transcript_trnV;Parent=gene_trnV;gene_id=trnV
